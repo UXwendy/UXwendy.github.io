@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+title: Welcome to the UXwendy’s homepage!
 
 You can use the [editor on GitHub](https://github.com/UXwendy/UXwendy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
